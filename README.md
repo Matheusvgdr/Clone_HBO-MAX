@@ -25,8 +25,8 @@ Em construção
 
 ## 🎨 Inspiração:
 
-Figma: https://www.figma.com/file/2A51gQJCk5V6LxcIh2en0b/HBO-Max-Redesign-Web-App-(Community)
-Youtube: https://www.youtube.com/c/birobirobiro
+Figma: https://www.figma.com/file/2A51gQJCk5V6LxcIh2en0b/HBO-Max-Redesign-Web-App-(Community) <br>
+Youtube: https://www.youtube.com/c/birobirobiro <br>
 Github: https://github.com/birobirobiro
 
 ---
